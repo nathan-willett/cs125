@@ -1,0 +1,22 @@
+Loaded plugins: fastestmirror
+Transaction ID : 162
+Begin time     : Thu Feb 16 17:28:02 2017
+Begin rpmdb    : 1026:78c930bb06522b4c2bcb5dafd89c1db9baa8c8d1
+End time       :            17:28:12 2017 (10 seconds)
+End rpmdb      : 1032:0ea8dd4457aa2d3acf769452b13d064b6f8ddbe3
+User           : root <root>
+Return-Code    : Success
+Command Line   : install xfdesktop.x86_64
+Transaction performed with:
+    Installed     rpm-4.11.3-17.el7.x86_64                      @base
+    Installed     yum-3.4.3-132.el7.centos.0.1.noarch           @base
+    Installed     yum-metadata-parser-1.1.4-10.el7.x86_64       @anaconda
+    Installed     yum-plugin-fastestmirror-1.1.31-34.el7.noarch @base
+Packages Altered:
+    Dep-Install Thunar-1.6.10-5.el7.x86_64      @epel
+    Dep-Install exo-0.10.7-1.el7.x86_64         @epel
+    Dep-Install garcon-0.4.0-3.el7.x86_64       @epel
+    Dep-Install xfce4-panel-4.12.0-4.el7.x86_64 @epel
+    Install     xfdesktop-4.12.3-2.el7.x86_64   @epel
+    Dep-Install xfwm4-4.12.3-2.el7.x86_64       @epel
+history info

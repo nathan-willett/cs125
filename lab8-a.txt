@@ -1,0 +1,22 @@
+# file: home/share/Public
+# owner: root
+# group: root
+user::rwx
+user:Bob:rwx
+user:Ted:rwx
+user:Sally:rwx
+group::r-x
+mask::rwx
+other::---
+
+# file: home/share/Public/Wikipages
+# owner: apache
+# group: editors
+user::rwx
+user:Bob:rwx
+user:Ted:rwx
+user:Sally:rwx
+group::r--
+mask::rwx
+other::rwx
+

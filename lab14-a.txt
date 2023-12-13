@@ -1,0 +1,42 @@
+  --- Volume group ---
+  VG Name               VolGroup01
+  System ID             
+  Format                lvm2
+  Metadata Areas        2
+  Metadata Sequence No  5
+  VG Access             read/write
+  VG Status             resizable
+  MAX LV                0
+  Cur LV                1
+  Open LV               0
+  Max PV                0
+  Cur PV                2
+  Act PV                2
+  VG Size               1016.00 MiB
+  PE Size               4.00 MiB
+  Total PE              254
+  Alloc PE / Size       254 / 1016.00 MiB
+  Free  PE / Size       0 / 0   
+  VG UUID               3yfU6d-d7G3-ytet-wneQ-9Nwg-tX6F-KHp7HM
+   
+  --- Volume group ---
+  VG Name               VolGroup00
+  System ID             
+  Format                lvm2
+  Metadata Areas        1
+  Metadata Sequence No  3
+  VG Access             read/write
+  VG Status             resizable
+  MAX LV                0
+  Cur LV                2
+  Open LV               2
+  Max PV                0
+  Cur PV                1
+  Act PV                1
+  VG Size               7.80 GiB
+  PE Size               4.00 MiB
+  Total PE              1997
+  Alloc PE / Size       1987 / 7.76 GiB
+  Free  PE / Size       10 / 40.00 MiB
+  VG UUID               RsjRVt-VfND-P22r-fONV-EcDa-339G-Nx0AXI
+   

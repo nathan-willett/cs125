@@ -1,0 +1,10 @@
+Filesystem                      1K-blocks     Used Available Use% Mounted on
+/dev/mapper/VolGroup00-LogVol00   7363668  4743944   2222620  69% /
+devtmpfs                           357592        0    357592   0% /dev
+tmpfs                              378176       12    378164   1% /dev/shm
+tmpfs                              378176    33372    344804   9% /run
+tmpfs                              378176        0    378176   0% /sys/fs/cgroup
+/dev/xvda1                         194241   141972     42029  78% /boot
+classserver:/var/share          103213056 79302656  18667520  81% /var/share
+tmpfs                               75636        0     75636   0% /run/user/0
+/dev/xvdb1                         498514     2654    465601   1% /home

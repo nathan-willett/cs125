@@ -1,0 +1,11 @@
+total 20
+drwxrwsr--. 2 root  l6g1  1024 Feb  9 15:37 accounting
+drwx------. 3 Bob   Bob   1024 Feb 14 13:20 Bob
+drwx------. 8 Brian Brian 1024 Feb  7 16:18 Brian
+drwx------. 8 Joe   Joe   1024 Mar  1 00:30 Joe
+drwx------. 8 Julie Julie 1024 Feb  9 16:45 Julie
+drwxrwsrwt. 3 root  l6g2  1024 Feb 12 18:44 marketing
+drwxrwxrwt. 2 root  root  1024 Feb 12 17:15 public
+drwx------. 3 Sally Sally 1024 Mar  2 15:40 Sally
+drwxr-xr-x. 7 root  root  1024 Feb 14 11:47 share
+drwx------. 3 Ted   Ted   1024 Feb 14 14:49 Ted

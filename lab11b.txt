@@ -1,0 +1,18 @@
+Loaded plugins: fastestmirror
+Transaction ID : 163
+Begin time     : Tue Feb 21 13:52:53 2017
+Begin rpmdb    : 1032:0ea8dd4457aa2d3acf769452b13d064b6f8ddbe3
+End time       :            13:52:55 2017 (2 seconds)
+End rpmdb      : 1034:cebb7eb1f596086b468f01b789e60a59f9e7e3a0
+User           : root <root>
+Return-Code    : Success
+Command Line   : install xfce4-session.x86_64
+Transaction performed with:
+    Installed     rpm-4.11.3-17.el7.x86_64                      @base
+    Installed     yum-3.4.3-132.el7.centos.0.1.noarch           @base
+    Installed     yum-metadata-parser-1.1.4-10.el7.x86_64       @anaconda
+    Installed     yum-plugin-fastestmirror-1.1.31-34.el7.noarch @base
+Packages Altered:
+    Dep-Install xfce-polkit-0.2-8.el7.x86_64      @epel
+    Install     xfce4-session-4.12.1-8.el7.x86_64 @epel
+history info
